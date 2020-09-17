@@ -1,0 +1,11 @@
+header{
+    background-color: #3b2d50;
+    text-align: center;
+}
+header h1{
+    color: white
+}
+header img{
+    border-radius: 200px;
+    border: 10px solid white;
+}
